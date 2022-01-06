@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BasicsKotlin</string>
+    <string name="splash">Simple Splash</string>
+    <string name="music">Music</string>
+    <string name="animated_splash_screen">Animated Splash Screen</string>
+</resources>
