@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         val simpleSplashButton = findViewById<Button>(R.id.splashButton)
         val animatedSplashButton = findViewById<Button>(R.id.animatedSplashButton)
+        val simpleCalculator = findViewById<Button>(R.id.simpleCalculator);
 
         simpleSplashButton.setOnClickListener {
             val splashIntent = Intent(this,SplashScreen::class.java)
@@ -19,6 +20,10 @@ class MainActivity : AppCompatActivity() {
         }
         animatedSplashButton.setOnClickListener {
             val splashIntent = Intent(this,AnimatedSplashScreen::class.java)
+            startActivity(splashIntent)
+        }
+        simpleCalculator.setOnClickListener {
+            val splashIntent = Intent(this,Simple_Calculator::class.java)
             startActivity(splashIntent)
         }
     }

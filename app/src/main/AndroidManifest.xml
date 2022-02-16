@@ -10,9 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BasicsKotlin">
         <activity
+            android:name=".Simple_Calculator"
+            android:exported="false" />
+        <activity
             android:name=".AnimatedSplashScreen"
             android:exported="true"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".SplashScreen"
             android:exported="true"
