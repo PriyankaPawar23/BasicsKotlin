@@ -5,8 +5,10 @@
       <map>
         <entry key="..\:/Users/Dell/AndroidStudioProjects/BasicsKotlin/app/src/main/res/layout/activity_animated_splash_screen.xml" value="0.264" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/BasicsKotlin/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/BasicsKotlin/app/src/main/res/layout/activity_recycler_view.xml" value="0.1598731884057971" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/BasicsKotlin/app/src/main/res/layout/activity_simple_calculator.xml" value="0.1598731884057971" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/BasicsKotlin/app/src/main/res/layout/activity_splash_screen.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/BasicsKotlin/app/src/main/res/layout/recycleritem.xml" value="0.264" />
       </map>
     </option>
   </component>

@@ -48,6 +48,14 @@
                 android:layout_gravity="start|top"
                 android:text="@string/Simple_Calculator"/>
 
+            <Button
+                android:id="@+id/recyclerView"
+                android:layout_width="150dp"
+                android:layout_height="80dp"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="end|top"
+                android:text="@string/recyclerview"/>
+
         </GridLayout>
     </androidx.cardview.widget.CardView>
 
